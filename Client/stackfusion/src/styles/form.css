@@ -1,0 +1,37 @@
+#name,#mail{
+    margin-bottom: 15px;
+}
+.inputfield{
+    width: 50%;
+}
+.field{
+    margin-bottom: 15px;  
+}
+#button{
+    text-align: center;
+   margin-left: 90px;
+   width: 100px;
+   height: 25px;
+}
+p {
+    color: red;
+}
+form{
+    border: 1px solid black;
+    height: 200px;
+    width: 400px;
+    padding-left: 10%;
+    margin: auto;
+    border-radius: 25px;
+    background-color: blanchedalmond;
+}
+.card{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    padding-left: 1%;
+    margin: auto;
+    border-radius: 25px;
+    background-color: rgb(188, 186, 183);
+    margin-bottom: 15px;
+}
