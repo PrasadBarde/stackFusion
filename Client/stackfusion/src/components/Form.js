@@ -59,7 +59,7 @@ function Form() {
     check your mail for confirmation`);
     axios({
       method: "post",
-      url: "http://localhost:8080/addnewproperty",
+      url: "https://fusion-0u4a.onrender.com/addnewproperty",
       data: allData,
     })
       .then((res) => {

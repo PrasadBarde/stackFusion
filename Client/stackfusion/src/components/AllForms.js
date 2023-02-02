@@ -7,7 +7,7 @@ function AllForms() {
   useEffect(() => {
     if (check) {
       axios
-        .get("http://localhost:8080/property")
+        .get("https://fusion-0u4a.onrender.com/property")
         .then((res) => {
           console.log(res.data.userData);
           setForms(res.data.userData);
